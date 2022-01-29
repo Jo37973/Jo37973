@@ -17,6 +17,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jo37973&show_icons=true&locale=en" alt="jo37973" /></p>
 
+
+
+
+
+
+
+
 Support 🙏
 Are you using the tool and happy with it to create your GitHub Profile?
 Your kind support keeps open-source tools like this free for others.
