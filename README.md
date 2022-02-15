@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joanna Pastcan</h1>
-<h3 align="center">I am studying Full-Stack Coding at UCI</h3>
+<h3 align="center">I am studying Full-Stack Web Development at UCI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jo37973&label=Profile%20views&color=0e75b6&style=flat" alt="jo37973" /> </p>
 
