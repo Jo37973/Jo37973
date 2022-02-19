@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jo37973&label=Profile%20views&color=0e75b6&style=flat" alt="jo37973" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jo37973](https://github.com/Jo37973)
+- Here is my Portfolio: [https://jo37973.github.io/Joanna-Updated-Portfolio/](https://jo37973.github.io/Joanna-Updated-Portfolio/)
 
 <h3 align="left">Connect with me timelessmoment05@gmail.com or my LinkedIn profile:</h3>
 <p align="left">
